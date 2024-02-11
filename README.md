@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Kero-83's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kero-83)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Kero-83/Kero-83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
