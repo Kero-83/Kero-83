@@ -4,7 +4,8 @@ Currently studying at FCIS ASU.<br>
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/474334372867211264) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kerolos-sarwat-fawzy-161393270)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/474334372867211264) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kerolos-sarwat-fawzy-161393270) [![Codeforces](https://img.shields.io/badge/codeforces-%25FFFFFFFF.svg?logo=codeforces&logoColor=white&color=red
+)](https://codeforces.com/profile/Keros342)
 
 📫 Reach me at kerosarwat83@gmail.com
 
